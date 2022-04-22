@@ -1,7 +1,7 @@
 
 # 仿真平台系统前端相关技术栈
 ```
-前端相关技术：vue3+vite、ElementUI-plus、maptalks、threejs
+前端相关技术：vue3+vite、vuex、ElementUI-plus、maptalks、threejs
 ```    
 # 仿真平台系统后端相关技术栈
 项目地址：https://github.com/yunfei111666/FastAPI-tortoise-orm
