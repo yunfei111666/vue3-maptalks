@@ -1,7 +1,7 @@
 
-# trunkverse
-
-Trunk：主线科技 verse：Universe 的简写 意为主线世界，同时 verse 有“诗、诗的章节”的意思，寓意仿真平台是主线科技精彩的一部分。
+# 仿真平台系统相关技术栈
+![image](https://github.com/yunfei111666/vue3-maptalks/jn.jpg)
+后端使用Python，项目地址：https://github.com/yunfei111666/FastAPI-tortoise-orm
 
 # 目录结构
 
