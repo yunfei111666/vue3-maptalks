@@ -1,5 +1,5 @@
 /*
- * @Author: JackFly
+ * @Author: yunfei
  * @since: 2022-03-29 13:31:13
  * @lastTime: 2022-04-01 19:20:33
  * @文件相对于项目的路径: /trunkverse/src/components/Map/tools/moduleType.js

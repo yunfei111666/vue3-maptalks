@@ -1,11 +1,11 @@
 <!--
  * @Description: 运行结果
  * @Project: 
- * @Author: michelle
+ * @Author: yunfei
  * @Date: 2022-04-01 10:18:40
- * @LastEditors: michelle
+ * @LastEditors: yunfei
  * @LastEditTime: 2022-04-01 19:37:29
- * @Modified By: michelle
+ * @Modified By: yunfei
  * @FilePath: /trunkverse/src/pages/scene/components/Result.vue
 -->
 <template>

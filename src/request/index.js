@@ -1,12 +1,12 @@
 /*
  * @Description: 
  * @Project: 
- * @Author: michelle
+ * @Author: yunfei
  * @Date: 2022-03-22 15:46:00
- * @LastEditors: michelle
- * @LastEditTime: 2022-03-30 16:11:14
- * @Modified By: michelle
- * @FilePath: /trunkverse/src/request/index.js
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-04-22 18:48:35
+ * @Modified By: yunfei
+ * @FilePath: /demo/vue3-maptalks/src/request/index.js
  */
 
 import axios from "axios";

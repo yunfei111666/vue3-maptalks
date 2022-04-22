@@ -1,11 +1,11 @@
 /*
  * @Description: 
  * @Project: 
- * @Author: michelle
+ * @Author: yunfei
  * @Date: 2022-03-22 15:46:00
- * @LastEditors: michelle
+ * @LastEditors: yunfei
  * @LastEditTime: 2022-03-24 16:59:00
- * @Modified By: michelle
+ * @Modified By: yunfei
  * @FilePath: /trunkverse/vite.config.js
  */
 import { defineConfig } from 'vite'
