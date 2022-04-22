@@ -1,7 +1,8 @@
 
 # 仿真平台系统相关技术栈
-![Image](https://github.com/yunfei111666/vue3-maptalks/blob/master/aa.png)
-后端使用Python，项目地址：https://github.com/yunfei111666/FastAPI-tortoise-orm
+前端相关技术：vue3+vite、ElementUI-plus、maptalks、threejs。
+后端使用Python 相关技术：fastAPI、Mysql + Tortoise_orm
+地址：https://github.com/yunfei111666/FastAPI-tortoise-orm，
 
 # 目录结构
 
