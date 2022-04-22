@@ -1,0 +1,113 @@
+.tool-top {
+    height: 48px;
+    margin: 15px 0;
+    padding: 0 40px;
+    display: flex;
+    justify-content: space-between;
+
+    .tool-left {
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        // 页面提示文字
+        .text {
+            font-size: 22px;
+            font-weight: 500;
+            color: #404856;
+            line-height: 1;
+            margin-right: 48px;
+        }
+
+        // 场景列表统计数字
+        .scene-count {
+            font-size: 16px;
+            color: #404856;
+            line-height: 24px;
+            margin-right: 31px;
+        }
+
+        // input
+        .search-input {
+            width: 240px;
+            height: 28px;
+            background: #F9FDFF;
+            border-radius: 4px;
+            box-shadow: 0px 2px 18px 8px #B4C2CE inset;
+            overflow: hidden;
+
+            :deep(.el-input__inner) {
+                height: 28px;
+            }
+        }
+
+        // icon
+        .search-icon {
+            width: 28px;
+            height: 28px;
+            background: #5098FF;
+            border-radius: 4px;
+            color: #fff;
+            margin: 0 32px 0 8px;
+        }
+
+        // 高级搜索
+        .senior-search {
+            font-size: 14px;
+            color: #5098FF;
+            cursor: pointer;
+        }
+
+        // 编辑页icon行
+        .scene-execute {
+            display: flex;
+
+            .btn-tool {
+                width: 100px;
+                text-align: center;
+                cursor: pointer;
+                position: relative;
+
+                .iconfont {
+                    display: block;
+                    font-size: 24px;
+                    color: #5098FF;
+                    margin-top: 5px;
+                    margin-bottom: 6px;
+                }
+
+                .tool-name {
+                    font-size: 14px;
+                    font-weight: 500;
+                    color: #404856;
+                    line-height: 24px;
+                }
+            }
+        }
+    }
+
+    .tool-right {
+        height: 48px;
+        display: flex;
+        justify-content: right;
+        align-items: center;
+
+        .el-button {
+            width: 96px;
+            height: 40px;
+            background: #5098FF;
+            border-radius: 8px;
+            margin-left: 16px;
+            font-size: 18px;
+            font-weight: 500;
+            color: rgba(253, 253, 253, 0.85);
+            line-height: 24px;
+            box-shadow: none;
+            border: 0;
+            outline: none;
+            &:hover {
+                box-shadow: 0px 2px 6px 0px #BCC9D5;
+            }
+        }
+    }
+}

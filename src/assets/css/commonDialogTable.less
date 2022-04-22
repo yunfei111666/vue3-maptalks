@@ -1,0 +1,81 @@
+.dialog-table-box{
+    padding: 0px;
+    height: calc(100% - 69px);
+    :deep(.el-table) {
+        table {
+            thead {
+                background: #FCFEFF;
+    
+                tr>th {
+                    background: #F6FAFF;
+                    height: 30px;
+                    color: #525151;
+                }
+            }
+            tbody {
+                font-size: 14px;
+                color: #212121;
+                tr>td {
+                    height: 48px;
+                }
+            }
+        }
+        .el-table__inner-wrapper::before {
+            display: none;
+        }
+        .el-select {
+            width: 150px;
+            outline: none;
+            .el-input__inner {
+                text-align: center;
+                box-shadow: none!important;
+            }
+    
+        }
+    }
+    .pass-rate{
+        color: #00B314;
+    }
+    .pass-versions{
+        color: #5098FF;
+    }
+    .pass-metric-exception{
+        color: #EE001D;
+    }
+    .pass-metric-success{
+        color: #29E600;
+    }
+    .look-detail {
+        height: 100%;
+        width: 100%;
+        border: 0;
+        color: #1890FF;
+        display: flex;
+        justify-content: center;
+    
+        span {
+            display: block;
+            height: 100%;
+            width: 50%;
+            cursor: pointer;
+        }
+    }
+    .icon-wancheng {
+        color: #00B314;
+    }
+    .icon-yunhangzhong {
+        color: #5098FF;
+    }
+    .icon-shibai {
+        color: #f00;
+    }
+}
+
+.task-table {
+    :deep(tr>th:first-child) {
+        // opacity: 0;
+        .el-checkbox  {
+            display: none!important;
+        }
+    }
+}
